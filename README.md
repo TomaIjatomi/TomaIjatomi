@@ -104,7 +104,7 @@ I’m proud to mentor aspiring professionals through the [**WAIPractice Program*
 ## Recent Speaking Engagements
 
 I’m actively involved in sharing knowledge and advocating for responsible AI through talks, panel discussions, and workshops.
-- Building Intelligent Applications with LangChain – PyLadies Dublin x PyData Ireland, June 2024
+- [Building Intelligent Applications with LangChain](https://github.com/pyladiesdublin/jun-talks-2024) – PyLadies Dublin x PyData Ireland, June 2024
 - AI & Creativity: Building a More Inclusive Future – Panelist, Women in AI x Shutterstock Kaggle Challenge, March 2025
 - Simplify Your Life with AI – Guest Speaker, Kella @ Salesforce Towers, March 2025
 
@@ -122,7 +122,8 @@ I’m actively involved in sharing knowledge and advocating for responsible AI t
 - Facilitator, [AI Safety Dublin](https://www.aisdublin.com/about/team)
 
 ---
-## Let’s Collaborate
+## Let’s Collaborate!
+Open to collaborations, speaking engagements, and exciting AI projects.
 
 If you’re working on projects in **LLMs, GenAI agents, or inclusive AI applications**, let’s connect!
 
