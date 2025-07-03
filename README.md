@@ -108,11 +108,18 @@ I’m actively involved in sharing knowledge and advocating for responsible AI t
 - AI & Creativity: Building a More Inclusive Future – Panelist, Women in AI x Shutterstock Kaggle Challenge, March 2025
 - Simplify Your Life with AI – Guest Speaker, Kella @ Salesforce Tower, March 2025
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/03078595-2b12-4eda-8d62-05cfe54ac81c" alt="PyData LangChain Talk" height="300" width="40%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/a28216fd-dc90-4c05-b73b-d4b3c81ddcc1" alt="AI & Creativity Panel" height="300" width="25%" style="margin: 0 10px;"/>
-  <img src="https://github.com/user-attachments/assets/1488d523-a5ec-4eaa-9876-6261a446c48e" alt="Kella Guest Talk" height="300" width="25%" style="margin-left: 10px;"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/03078595-2b12-4eda-8d62-05cfe54ac81c" alt="PyData LangChain Talk" height="300" width="60%" style="margin-left: 10px;"/>
 </p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a28216fd-dc90-4c05-b73b-d4b3c81ddcc1" alt="AI & Creativity Panel" height="300" width="30%" style="margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/1488d523-a5ec-4eaa-9876-6261a446c48e" alt="Kella Guest Talk" height="300" width="30%" style="margin-left: 10px;"/>
+</p>
+
+---
+## Volunteering Engagements
+- Women in AI Tutorials Co-Lead, [Women in AI Ireland](https://www.womeninai.co/wailearn)
+- Facilitator, [AI Safety Dublin](https://www.aisdublin.com/about/team)
 
 ---
 ## Let’s Collaborate
