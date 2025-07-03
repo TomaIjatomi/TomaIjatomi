@@ -106,14 +106,14 @@ I’m proud to mentor aspiring professionals through the [**WAIPractice Program*
 I’m actively involved in sharing knowledge and advocating for responsible AI through talks, panel discussions, and workshops.
 - Building Intelligent Applications with LangChain – PyLadies Dublin x PyData Ireland, June 2024
 - AI & Creativity: Building a More Inclusive Future – Panelist, Women in AI x Shutterstock Kaggle Challenge, March 2025
-- Simplify Your Life with AI – Guest Speaker, Kella @ Salesforce Tower, March 2025
+- Simplify Your Life with AI – Guest Speaker, Kella @ Salesforce Towers, March 2025
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/03078595-2b12-4eda-8d62-05cfe54ac81c" alt="PyData LangChain Talk" height="300" width="60%" style="margin-left: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/03078595-2b12-4eda-8d62-05cfe54ac81c" alt="PyData LangChain Talk" width="60%" style="margin-left: 10px;"/>
 </p>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/a28216fd-dc90-4c05-b73b-d4b3c81ddcc1" alt="AI & Creativity Panel" height="300" width="30%" style="margin: 0 10px;"/>
-  <img src="https://github.com/user-attachments/assets/1488d523-a5ec-4eaa-9876-6261a446c48e" alt="Kella Guest Talk" height="300" width="30%" style="margin-left: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a28216fd-dc90-4c05-b73b-d4b3c81ddcc1" alt="AI & Creativity Panel" width="30%" style="margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/1488d523-a5ec-4eaa-9876-6261a446c48e" alt="Kella Guest Talk" width="30%" style="margin-left: 10px;"/>
 </p>
 
 ---
