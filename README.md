@@ -26,7 +26,7 @@ Program Lead, Women in AI Ireland · Facilitator, AI Safety Dublin.
 
 - **[Security Patterns for Agentic AI Systems](https://github.com/TomaIjatomi/talks-and-workshops/tree/main/talks/2026-gdg-dublin-agentic-security)** — GDG Dublin, IWD 2026
 - **[Building LLM Chatbots: From Fundamentals to RAG](https://github.com/TomaIjatomi/talks-and-workshops/tree/main/workshops/wai-chatbot-workshop)** - Women in AI Ireland × EY, Oct 2025
-- **[Building Intelligent Applications with LangChain**](https://github.com/pyladiesdublin/jun-talks-2024) — PyLadies Dublin × PyData Ireland, June 2024
+- **[Building Intelligent Applications with LangChain](https://github.com/pyladiesdublin/jun-talks-2024)** — PyLadies Dublin × PyData Ireland, June 2024
 - **AI & Creativity: Building a More Inclusive Future** — Women in AI × Shutterstock, 2025
 
 ---
