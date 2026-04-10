@@ -15,7 +15,7 @@ Program Lead, Women in AI Ireland · Facilitator, AI Safety Dublin.
 ---
 
 ## What I'm Working On
-
+- **[TraceBench](https://github.com/TomaIjatomi/tracebench)** - Task-level Reasoning and Agentic Cognition Evaluation (TRACE) Benchmark for evaluating Self-Monitoring in Multi-Step Agent Tasks
 - **[Gravitas](https://gravitas-coral.vercel.app)** — Leadership communication app with AI coaching and voice synthesis (Next.js, Google Cloud TTS)
 - **[arxiv-rag-assistant](https://github.com/TomaIjatomi/arxiv-rag-assistant)** — RAG pipeline over arXiv papers (FastAPI, PostgreSQL, OpenSearch, Redis, Airflow)
 - Exploring adversarial AI, prompt injection defence, and security patterns for agentic systems
@@ -34,7 +34,7 @@ Program Lead, Women in AI Ireland · Facilitator, AI Safety Dublin.
 ## Let's Connect
 
 Open to collaborations, speaking invitations, and interesting AI problems.  
-Reach me at [toma.ijatomi@gmail.com](mailto:toma.ijatomi@gmail.com) or find me at [tomaijatomi.com](https://tomaijatomi.com).
+Contact me on [LinkedIn](https://linkedin.com/in/toma-ijatomi) or find me at [tomaijatomi.com](https://tomaijatomi.com).
 
 
 
