@@ -16,7 +16,7 @@ Program Lead, Women in AI Ireland · Facilitator, AI Safety Dublin.
 
 ## What I'm Working On
 - **[FinSheet Agent](https://github.com/TomaIjatomi/finsheet-agent)** - A multi-agent system for financial spreadsheet question answering.
-- **[Arxiv Source-Grounding Assistant](https://github.com/TomaIjatomi/finsheet-agent)** - A production-grade RAG system, built eval-first, that checks claims against academic AI papers. (LlamaIndex, FastAPI, PostgreSQL, OpenSearch, Redis, Airflow)
+- **[Arxiv Source-Grounding Assistant](https://github.com/TomaIjatomi/arxiv-grounding-assistant)** - A production-grade RAG system, built eval-first, that checks claims against academic AI papers. (LlamaIndex, FastAPI, PostgreSQL, OpenSearch, Redis, Airflow)
 - **[TraceBench](https://github.com/TomaIjatomi/tracebench)** - Task-level Reasoning and Agentic Cognition Evaluation (TRACE) Benchmark for evaluating Self-Monitoring in Multi-Step Agent Tasks
 - **[Gravitas](https://gravitas-coral.vercel.app)** — Leadership communication app with AI coaching and voice synthesis (Next.js, Google Cloud TTS)
 - Exploring adversarial AI, prompt injection defence, and security patterns for agentic systems
