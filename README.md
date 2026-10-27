@@ -15,6 +15,7 @@ Program Lead, Women in AI Ireland · Facilitator, AI Safety Dublin.
 ---
 
 ## What I'm Working On
+- **[DERVA AI Gateway](https://github.com/TomaIjatomi/derva-ai-gateway)** - An evaluation-driven AI gateway for regulated teams. A fast decision model, chosen on held-out evals against criteria set in advance, checks every request for prompt injection, client data leaving the firm and regulated advice before it reaches an LLM. (LiteLLM, TypeSafe Jev, Presidio, Postgres, Terraform)
 - **[FinSheet Agent](https://github.com/TomaIjatomi/finsheet-agent)** - A multi-agent system for financial spreadsheet question answering.
 - **[Arxiv Source-Grounding Assistant](https://github.com/TomaIjatomi/arxiv-grounding-assistant)** - A production-grade RAG system, built eval-first, that checks claims against academic AI papers. (LlamaIndex, FastAPI, PostgreSQL, OpenSearch, Redis, Airflow)
 - **[TraceBench](https://github.com/TomaIjatomi/tracebench)** - Task-level Reasoning and Agentic Cognition Evaluation (TRACE) Benchmark for evaluating Self-Monitoring in Multi-Step Agent Tasks
